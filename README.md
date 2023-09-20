@@ -1,4 +1,4 @@
-# React Ecommerce App
+# React Ecommerce App Using React and Javascript
 
 # Functionality 
 - User can brower for products and can filter products based on Categories
